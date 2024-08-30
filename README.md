@@ -13,4 +13,12 @@ I will be pushing projects that contribute to my learning path into my repositor
 2. Data Structures & Algorithms (DSA)
 3. Backend Fundamentals
 4. Django, Flask
-5. DevOps Concepts
+5. API & GraphQl
+6. DevOps Concepts
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,docker,graphql,linux" />
+  </a>
+</p>
