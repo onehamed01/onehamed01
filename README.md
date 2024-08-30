@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hamed
 
-<!--
-**onehamed01/onehamed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have approximately 5 years of experience working as a freelance programmer. I started my journey with small scripting projects using Python, and eventually, I transitioned into Backend development. I have developed a strong interest in this field and am eager to delve deeper into it.
 
-Here are some ideas to get you started:
+Currently, I am residing in the UK, and I see my skills as starting from scratch in this new environment. It feels like I am beginning my programming journey all over again.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Given the extra time I have, I am committed to a self-taught journey, starting from the basics and aiming to master Backend development. My goal is to work as a Backend Engineer in the future.
+
+I will be pushing projects that contribute to my learning path into my repositories, complete with thorough documentation.
+
+## Learning Path:
+1. Python OOP & Advanced Level
+2. Data Structures & Algorithms (DSA)
+3. Backend Fundamentals
+4. Django, Flask
+5. DevOps Concepts
